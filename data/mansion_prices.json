@@ -1,0 +1,4483 @@
+{
+  "last_updated": "2026-Q1",
+  "data_source": "国土交通省 不動産情報ライブラリ",
+  "note": "中古マンション等の取引価格情報（万円単位）",
+  "periods": [
+    "2021-Q1",
+    "2021-Q2",
+    "2021-Q3",
+    "2021-Q4",
+    "2022-Q1",
+    "2022-Q2",
+    "2022-Q3",
+    "2022-Q4",
+    "2023-Q1",
+    "2023-Q2",
+    "2023-Q3",
+    "2023-Q4",
+    "2024-Q1",
+    "2024-Q2",
+    "2024-Q3",
+    "2024-Q4",
+    "2025-Q1",
+    "2025-Q2",
+    "2025-Q3",
+    "2025-Q4",
+    "2026-Q1"
+  ],
+  "prefectures": {
+    "東京都": {
+      "1LDK": {
+        "2021-Q1": {
+          "price": 4597,
+          "unit": null,
+          "count": 955
+        },
+        "2021-Q2": {
+          "price": 4306,
+          "unit": null,
+          "count": 1064
+        },
+        "2021-Q3": {
+          "price": 4740,
+          "unit": null,
+          "count": 970
+        },
+        "2021-Q4": {
+          "price": 4557,
+          "unit": null,
+          "count": 1038
+        },
+        "2022-Q1": {
+          "price": 4785,
+          "unit": null,
+          "count": 1035
+        },
+        "2022-Q2": {
+          "price": 4751,
+          "unit": null,
+          "count": 992
+        },
+        "2022-Q3": {
+          "price": 5051,
+          "unit": null,
+          "count": 983
+        },
+        "2022-Q4": {
+          "price": 4985,
+          "unit": null,
+          "count": 1045
+        },
+        "2023-Q1": {
+          "price": 5040,
+          "unit": null,
+          "count": 1008
+        },
+        "2023-Q2": {
+          "price": 5095,
+          "unit": null,
+          "count": 987
+        },
+        "2023-Q3": {
+          "price": 5042,
+          "unit": null,
+          "count": 1049
+        },
+        "2023-Q4": {
+          "price": 5344,
+          "unit": null,
+          "count": 1075
+        },
+        "2024-Q1": {
+          "price": 5401,
+          "unit": null,
+          "count": 1122
+        },
+        "2024-Q2": {
+          "price": 5461,
+          "unit": null,
+          "count": 1129
+        },
+        "2024-Q3": {
+          "price": 5414,
+          "unit": null,
+          "count": 1015
+        },
+        "2024-Q4": {
+          "price": 6138,
+          "unit": null,
+          "count": 1090
+        },
+        "2025-Q1": {
+          "price": 5817,
+          "unit": null,
+          "count": 1231
+        },
+        "2025-Q2": {
+          "price": 6181,
+          "unit": null,
+          "count": 1305
+        },
+        "2025-Q3": {
+          "price": 6227,
+          "unit": null,
+          "count": 1298
+        },
+        "2025-Q4": {
+          "price": 6485,
+          "unit": null,
+          "count": 1009
+        }
+      },
+      "2LDK": {
+        "2021-Q1": {
+          "price": 5835,
+          "unit": null,
+          "count": 1829
+        },
+        "2021-Q2": {
+          "price": 6104,
+          "unit": null,
+          "count": 2024
+        },
+        "2021-Q3": {
+          "price": 6086,
+          "unit": null,
+          "count": 1737
+        },
+        "2021-Q4": {
+          "price": 6182,
+          "unit": null,
+          "count": 1930
+        },
+        "2022-Q1": {
+          "price": 6283,
+          "unit": null,
+          "count": 1882
+        },
+        "2022-Q2": {
+          "price": 6493,
+          "unit": null,
+          "count": 1881
+        },
+        "2022-Q3": {
+          "price": 6479,
+          "unit": null,
+          "count": 1806
+        },
+        "2022-Q4": {
+          "price": 6625,
+          "unit": null,
+          "count": 1874
+        },
+        "2023-Q1": {
+          "price": 6707,
+          "unit": null,
+          "count": 1816
+        },
+        "2023-Q2": {
+          "price": 7148,
+          "unit": null,
+          "count": 1902
+        },
+        "2023-Q3": {
+          "price": 7066,
+          "unit": null,
+          "count": 1866
+        },
+        "2023-Q4": {
+          "price": 7111,
+          "unit": null,
+          "count": 1974
+        },
+        "2024-Q1": {
+          "price": 7715,
+          "unit": null,
+          "count": 2043
+        },
+        "2024-Q2": {
+          "price": 7621,
+          "unit": null,
+          "count": 2047
+        },
+        "2024-Q3": {
+          "price": 7599,
+          "unit": null,
+          "count": 1766
+        },
+        "2024-Q4": {
+          "price": 8116,
+          "unit": null,
+          "count": 1843
+        },
+        "2025-Q1": {
+          "price": 8533,
+          "unit": null,
+          "count": 2308
+        },
+        "2025-Q2": {
+          "price": 8954,
+          "unit": null,
+          "count": 2208
+        },
+        "2025-Q3": {
+          "price": 9241,
+          "unit": null,
+          "count": 2043
+        },
+        "2025-Q4": {
+          "price": 9460,
+          "unit": null,
+          "count": 1788
+        }
+      },
+      "3LDK": {
+        "2021-Q1": {
+          "price": 5231,
+          "unit": null,
+          "count": 2548
+        },
+        "2021-Q2": {
+          "price": 5471,
+          "unit": null,
+          "count": 2783
+        },
+        "2021-Q3": {
+          "price": 5497,
+          "unit": null,
+          "count": 2486
+        },
+        "2021-Q4": {
+          "price": 5489,
+          "unit": null,
+          "count": 2740
+        },
+        "2022-Q1": {
+          "price": 5863,
+          "unit": null,
+          "count": 2589
+        },
+        "2022-Q2": {
+          "price": 5872,
+          "unit": null,
+          "count": 2490
+        },
+        "2022-Q3": {
+          "price": 6075,
+          "unit": null,
+          "count": 2292
+        },
+        "2022-Q4": {
+          "price": 6278,
+          "unit": null,
+          "count": 2358
+        },
+        "2023-Q1": {
+          "price": 6108,
+          "unit": null,
+          "count": 2516
+        },
+        "2023-Q2": {
+          "price": 6312,
+          "unit": null,
+          "count": 2496
+        },
+        "2023-Q3": {
+          "price": 6498,
+          "unit": null,
+          "count": 2571
+        },
+        "2023-Q4": {
+          "price": 6770,
+          "unit": null,
+          "count": 2486
+        },
+        "2024-Q1": {
+          "price": 6892,
+          "unit": null,
+          "count": 2807
+        },
+        "2024-Q2": {
+          "price": 7169,
+          "unit": null,
+          "count": 2632
+        },
+        "2024-Q3": {
+          "price": 7215,
+          "unit": null,
+          "count": 2437
+        },
+        "2024-Q4": {
+          "price": 7290,
+          "unit": null,
+          "count": 2526
+        },
+        "2025-Q1": {
+          "price": 7681,
+          "unit": null,
+          "count": 3052
+        },
+        "2025-Q2": {
+          "price": 8552,
+          "unit": null,
+          "count": 2921
+        },
+        "2025-Q3": {
+          "price": 8210,
+          "unit": null,
+          "count": 2722
+        },
+        "2025-Q4": {
+          "price": 8457,
+          "unit": null,
+          "count": 2297
+        }
+      },
+      "1K": {
+        "2021-Q1": {
+          "price": 2101,
+          "unit": null,
+          "count": 1632
+        },
+        "2021-Q2": {
+          "price": 2155,
+          "unit": null,
+          "count": 1679
+        },
+        "2021-Q3": {
+          "price": 2152,
+          "unit": null,
+          "count": 1648
+        },
+        "2021-Q4": {
+          "price": 2150,
+          "unit": null,
+          "count": 1784
+        },
+        "2022-Q1": {
+          "price": 2162,
+          "unit": null,
+          "count": 1649
+        },
+        "2022-Q2": {
+          "price": 2198,
+          "unit": null,
+          "count": 1642
+        },
+        "2022-Q3": {
+          "price": 2199,
+          "unit": null,
+          "count": 1713
+        },
+        "2022-Q4": {
+          "price": 2238,
+          "unit": null,
+          "count": 1696
+        },
+        "2023-Q1": {
+          "price": 2206,
+          "unit": null,
+          "count": 1586
+        },
+        "2023-Q2": {
+          "price": 2267,
+          "unit": null,
+          "count": 1576
+        },
+        "2023-Q3": {
+          "price": 2261,
+          "unit": null,
+          "count": 1621
+        },
+        "2023-Q4": {
+          "price": 2314,
+          "unit": null,
+          "count": 1583
+        },
+        "2024-Q1": {
+          "price": 2403,
+          "unit": null,
+          "count": 1529
+        },
+        "2024-Q2": {
+          "price": 2407,
+          "unit": null,
+          "count": 1635
+        },
+        "2024-Q3": {
+          "price": 2494,
+          "unit": null,
+          "count": 1540
+        },
+        "2024-Q4": {
+          "price": 2427,
+          "unit": null,
+          "count": 1567
+        },
+        "2025-Q1": {
+          "price": 2489,
+          "unit": null,
+          "count": 1620
+        },
+        "2025-Q2": {
+          "price": 2504,
+          "unit": null,
+          "count": 1602
+        },
+        "2025-Q3": {
+          "price": 2528,
+          "unit": null,
+          "count": 1648
+        },
+        "2025-Q4": {
+          "price": 2723,
+          "unit": null,
+          "count": 994
+        }
+      },
+      "1DK": {
+        "2021-Q1": {
+          "price": 2749,
+          "unit": null,
+          "count": 291
+        },
+        "2021-Q2": {
+          "price": 2676,
+          "unit": null,
+          "count": 296
+        },
+        "2021-Q3": {
+          "price": 2769,
+          "unit": null,
+          "count": 296
+        },
+        "2021-Q4": {
+          "price": 2847,
+          "unit": null,
+          "count": 316
+        },
+        "2022-Q1": {
+          "price": 2777,
+          "unit": null,
+          "count": 329
+        },
+        "2022-Q2": {
+          "price": 2880,
+          "unit": null,
+          "count": 340
+        },
+        "2022-Q3": {
+          "price": 2726,
+          "unit": null,
+          "count": 341
+        },
+        "2022-Q4": {
+          "price": 2855,
+          "unit": null,
+          "count": 308
+        },
+        "2023-Q1": {
+          "price": 2775,
+          "unit": null,
+          "count": 280
+        },
+        "2023-Q2": {
+          "price": 2926,
+          "unit": null,
+          "count": 293
+        },
+        "2023-Q3": {
+          "price": 2916,
+          "unit": null,
+          "count": 351
+        },
+        "2023-Q4": {
+          "price": 2935,
+          "unit": null,
+          "count": 341
+        },
+        "2024-Q1": {
+          "price": 3045,
+          "unit": null,
+          "count": 313
+        },
+        "2024-Q2": {
+          "price": 3123,
+          "unit": null,
+          "count": 328
+        },
+        "2024-Q3": {
+          "price": 3154,
+          "unit": null,
+          "count": 311
+        },
+        "2024-Q4": {
+          "price": 3210,
+          "unit": null,
+          "count": 338
+        },
+        "2025-Q1": {
+          "price": 3297,
+          "unit": null,
+          "count": 367
+        },
+        "2025-Q2": {
+          "price": 3246,
+          "unit": null,
+          "count": 330
+        },
+        "2025-Q3": {
+          "price": 3393,
+          "unit": null,
+          "count": 369
+        },
+        "2025-Q4": {
+          "price": 3421,
+          "unit": null,
+          "count": 258
+        }
+      },
+      "4LDK以上": {
+        "2021-Q1": {
+          "price": 5406,
+          "unit": null,
+          "count": 246
+        },
+        "2021-Q2": {
+          "price": 5142,
+          "unit": null,
+          "count": 333
+        },
+        "2021-Q3": {
+          "price": 5279,
+          "unit": null,
+          "count": 278
+        },
+        "2021-Q4": {
+          "price": 5291,
+          "unit": null,
+          "count": 282
+        },
+        "2022-Q1": {
+          "price": 5009,
+          "unit": null,
+          "count": 277
+        },
+        "2022-Q2": {
+          "price": 5782,
+          "unit": null,
+          "count": 243
+        },
+        "2022-Q3": {
+          "price": 5739,
+          "unit": null,
+          "count": 268
+        },
+        "2022-Q4": {
+          "price": 6026,
+          "unit": null,
+          "count": 250
+        },
+        "2023-Q1": {
+          "price": 5262,
+          "unit": null,
+          "count": 266
+        },
+        "2023-Q2": {
+          "price": 5817,
+          "unit": null,
+          "count": 220
+        },
+        "2023-Q3": {
+          "price": 6023,
+          "unit": null,
+          "count": 256
+        },
+        "2023-Q4": {
+          "price": 6287,
+          "unit": null,
+          "count": 253
+        },
+        "2024-Q1": {
+          "price": 6890,
+          "unit": null,
+          "count": 272
+        },
+        "2024-Q2": {
+          "price": 5772,
+          "unit": null,
+          "count": 292
+        },
+        "2024-Q3": {
+          "price": 6697,
+          "unit": null,
+          "count": 262
+        },
+        "2024-Q4": {
+          "price": 6606,
+          "unit": null,
+          "count": 275
+        },
+        "2025-Q1": {
+          "price": 7052,
+          "unit": null,
+          "count": 312
+        },
+        "2025-Q2": {
+          "price": 6888,
+          "unit": null,
+          "count": 260
+        },
+        "2025-Q3": {
+          "price": 7468,
+          "unit": null,
+          "count": 275
+        },
+        "2025-Q4": {
+          "price": 8176,
+          "unit": null,
+          "count": 235
+        }
+      },
+      "2DK": {
+        "2021-Q1": {
+          "price": 2727,
+          "unit": null,
+          "count": 238
+        },
+        "2021-Q2": {
+          "price": 2951,
+          "unit": null,
+          "count": 288
+        },
+        "2021-Q3": {
+          "price": 2945,
+          "unit": null,
+          "count": 255
+        },
+        "2021-Q4": {
+          "price": 2923,
+          "unit": null,
+          "count": 252
+        },
+        "2022-Q1": {
+          "price": 3107,
+          "unit": null,
+          "count": 254
+        },
+        "2022-Q2": {
+          "price": 3445,
+          "unit": null,
+          "count": 253
+        },
+        "2022-Q3": {
+          "price": 3133,
+          "unit": null,
+          "count": 252
+        },
+        "2022-Q4": {
+          "price": 3109,
+          "unit": null,
+          "count": 244
+        },
+        "2023-Q1": {
+          "price": 3141,
+          "unit": null,
+          "count": 239
+        },
+        "2023-Q2": {
+          "price": 4588,
+          "unit": null,
+          "count": 270
+        },
+        "2023-Q3": {
+          "price": 2996,
+          "unit": null,
+          "count": 250
+        },
+        "2023-Q4": {
+          "price": 2984,
+          "unit": null,
+          "count": 269
+        },
+        "2024-Q1": {
+          "price": 3405,
+          "unit": null,
+          "count": 257
+        },
+        "2024-Q2": {
+          "price": 3181,
+          "unit": null,
+          "count": 260
+        },
+        "2024-Q3": {
+          "price": 3568,
+          "unit": null,
+          "count": 256
+        },
+        "2024-Q4": {
+          "price": 3275,
+          "unit": null,
+          "count": 286
+        },
+        "2025-Q1": {
+          "price": 3395,
+          "unit": null,
+          "count": 351
+        },
+        "2025-Q2": {
+          "price": 3621,
+          "unit": null,
+          "count": 357
+        },
+        "2025-Q3": {
+          "price": 3212,
+          "unit": null,
+          "count": 304
+        },
+        "2025-Q4": {
+          "price": 3038,
+          "unit": null,
+          "count": 227
+        }
+      },
+      "3DK": {
+        "2021-Q1": {
+          "price": 2076,
+          "unit": null,
+          "count": 121
+        },
+        "2021-Q2": {
+          "price": 2057,
+          "unit": null,
+          "count": 118
+        },
+        "2021-Q3": {
+          "price": 2148,
+          "unit": null,
+          "count": 130
+        },
+        "2021-Q4": {
+          "price": 2371,
+          "unit": null,
+          "count": 142
+        },
+        "2022-Q1": {
+          "price": 2166,
+          "unit": null,
+          "count": 120
+        },
+        "2022-Q2": {
+          "price": 2094,
+          "unit": null,
+          "count": 121
+        },
+        "2022-Q3": {
+          "price": 2179,
+          "unit": null,
+          "count": 109
+        },
+        "2022-Q4": {
+          "price": 2042,
+          "unit": null,
+          "count": 108
+        },
+        "2023-Q1": {
+          "price": 2188,
+          "unit": null,
+          "count": 107
+        },
+        "2023-Q2": {
+          "price": 2205,
+          "unit": null,
+          "count": 104
+        },
+        "2023-Q3": {
+          "price": 2195,
+          "unit": null,
+          "count": 114
+        },
+        "2023-Q4": {
+          "price": 2237,
+          "unit": null,
+          "count": 120
+        },
+        "2024-Q1": {
+          "price": 2159,
+          "unit": null,
+          "count": 120
+        },
+        "2024-Q2": {
+          "price": 2224,
+          "unit": null,
+          "count": 125
+        },
+        "2024-Q3": {
+          "price": 2281,
+          "unit": null,
+          "count": 118
+        },
+        "2024-Q4": {
+          "price": 2432,
+          "unit": null,
+          "count": 140
+        },
+        "2025-Q1": {
+          "price": 2689,
+          "unit": null,
+          "count": 194
+        },
+        "2025-Q2": {
+          "price": 2683,
+          "unit": null,
+          "count": 187
+        },
+        "2025-Q3": {
+          "price": 2664,
+          "unit": null,
+          "count": 162
+        },
+        "2025-Q4": {
+          "price": 2746,
+          "unit": null,
+          "count": 167
+        }
+      },
+      "2K": {
+        "2021-Q1": {
+          "price": 1819,
+          "unit": null,
+          "count": 33
+        },
+        "2021-Q2": {
+          "price": 1902,
+          "unit": null,
+          "count": 35
+        },
+        "2021-Q3": {
+          "price": 1960,
+          "unit": null,
+          "count": 41
+        },
+        "2021-Q4": {
+          "price": 1718,
+          "unit": null,
+          "count": 44
+        },
+        "2022-Q1": {
+          "price": 2169,
+          "unit": null,
+          "count": 42
+        },
+        "2022-Q2": {
+          "price": 2032,
+          "unit": null,
+          "count": 42
+        },
+        "2022-Q3": {
+          "price": 1661,
+          "unit": null,
+          "count": 46
+        },
+        "2022-Q4": {
+          "price": 2016,
+          "unit": null,
+          "count": 44
+        },
+        "2023-Q1": {
+          "price": 2050,
+          "unit": null,
+          "count": 53
+        },
+        "2023-Q2": {
+          "price": 2053,
+          "unit": null,
+          "count": 33
+        },
+        "2023-Q3": {
+          "price": 2482,
+          "unit": null,
+          "count": 32
+        },
+        "2023-Q4": {
+          "price": 1906,
+          "unit": null,
+          "count": 48
+        },
+        "2024-Q1": {
+          "price": 2140,
+          "unit": null,
+          "count": 38
+        },
+        "2024-Q2": {
+          "price": 2364,
+          "unit": null,
+          "count": 57
+        },
+        "2024-Q3": {
+          "price": 2440,
+          "unit": null,
+          "count": 41
+        },
+        "2024-Q4": {
+          "price": 2178,
+          "unit": null,
+          "count": 40
+        },
+        "2025-Q1": {
+          "price": 2151,
+          "unit": null,
+          "count": 76
+        },
+        "2025-Q2": {
+          "price": 2537,
+          "unit": null,
+          "count": 58
+        },
+        "2025-Q3": {
+          "price": 2570,
+          "unit": null,
+          "count": 54
+        },
+        "2025-Q4": {
+          "price": 2303,
+          "unit": null,
+          "count": 56
+        }
+      }
+    },
+    "神奈川県": {
+      "3LDK": {
+        "2021-Q1": {
+          "price": 3376,
+          "unit": null,
+          "count": 1928
+        },
+        "2021-Q2": {
+          "price": 3340,
+          "unit": null,
+          "count": 2097
+        },
+        "2021-Q3": {
+          "price": 3525,
+          "unit": null,
+          "count": 1921
+        },
+        "2021-Q4": {
+          "price": 3548,
+          "unit": null,
+          "count": 2024
+        },
+        "2022-Q1": {
+          "price": 3688,
+          "unit": null,
+          "count": 1813
+        },
+        "2022-Q2": {
+          "price": 3818,
+          "unit": null,
+          "count": 1722
+        },
+        "2022-Q3": {
+          "price": 3782,
+          "unit": null,
+          "count": 1684
+        },
+        "2022-Q4": {
+          "price": 3848,
+          "unit": null,
+          "count": 1714
+        },
+        "2023-Q1": {
+          "price": 4004,
+          "unit": null,
+          "count": 1847
+        },
+        "2023-Q2": {
+          "price": 4003,
+          "unit": null,
+          "count": 1779
+        },
+        "2023-Q3": {
+          "price": 3947,
+          "unit": null,
+          "count": 1773
+        },
+        "2023-Q4": {
+          "price": 4199,
+          "unit": null,
+          "count": 1748
+        },
+        "2024-Q1": {
+          "price": 4252,
+          "unit": null,
+          "count": 1785
+        },
+        "2024-Q2": {
+          "price": 4124,
+          "unit": null,
+          "count": 1700
+        },
+        "2024-Q3": {
+          "price": 4165,
+          "unit": null,
+          "count": 1744
+        },
+        "2024-Q4": {
+          "price": 4177,
+          "unit": null,
+          "count": 1799
+        },
+        "2025-Q1": {
+          "price": 4128,
+          "unit": null,
+          "count": 2160
+        },
+        "2025-Q2": {
+          "price": 4240,
+          "unit": null,
+          "count": 1988
+        },
+        "2025-Q3": {
+          "price": 4295,
+          "unit": null,
+          "count": 1939
+        },
+        "2025-Q4": {
+          "price": 4410,
+          "unit": null,
+          "count": 1863
+        }
+      },
+      "1K": {
+        "2021-Q1": {
+          "price": 1440,
+          "unit": null,
+          "count": 354
+        },
+        "2021-Q2": {
+          "price": 1325,
+          "unit": null,
+          "count": 384
+        },
+        "2021-Q3": {
+          "price": 1375,
+          "unit": null,
+          "count": 375
+        },
+        "2021-Q4": {
+          "price": 1448,
+          "unit": null,
+          "count": 376
+        },
+        "2022-Q1": {
+          "price": 1474,
+          "unit": null,
+          "count": 363
+        },
+        "2022-Q2": {
+          "price": 1466,
+          "unit": null,
+          "count": 408
+        },
+        "2022-Q3": {
+          "price": 1476,
+          "unit": null,
+          "count": 423
+        },
+        "2022-Q4": {
+          "price": 1532,
+          "unit": null,
+          "count": 399
+        },
+        "2023-Q1": {
+          "price": 1453,
+          "unit": null,
+          "count": 354
+        },
+        "2023-Q2": {
+          "price": 1486,
+          "unit": null,
+          "count": 381
+        },
+        "2023-Q3": {
+          "price": 1490,
+          "unit": null,
+          "count": 404
+        },
+        "2023-Q4": {
+          "price": 1622,
+          "unit": null,
+          "count": 395
+        },
+        "2024-Q1": {
+          "price": 1694,
+          "unit": null,
+          "count": 401
+        },
+        "2024-Q2": {
+          "price": 1746,
+          "unit": null,
+          "count": 405
+        },
+        "2024-Q3": {
+          "price": 1726,
+          "unit": null,
+          "count": 410
+        },
+        "2024-Q4": {
+          "price": 1656,
+          "unit": null,
+          "count": 426
+        },
+        "2025-Q1": {
+          "price": 1737,
+          "unit": null,
+          "count": 423
+        },
+        "2025-Q2": {
+          "price": 1794,
+          "unit": null,
+          "count": 378
+        },
+        "2025-Q3": {
+          "price": 1887,
+          "unit": null,
+          "count": 387
+        },
+        "2025-Q4": {
+          "price": 1691,
+          "unit": null,
+          "count": 312
+        }
+      },
+      "4LDK以上": {
+        "2021-Q1": {
+          "price": 3675,
+          "unit": null,
+          "count": 262
+        },
+        "2021-Q2": {
+          "price": 3663,
+          "unit": null,
+          "count": 355
+        },
+        "2021-Q3": {
+          "price": 3693,
+          "unit": null,
+          "count": 295
+        },
+        "2021-Q4": {
+          "price": 3819,
+          "unit": null,
+          "count": 316
+        },
+        "2022-Q1": {
+          "price": 4046,
+          "unit": null,
+          "count": 275
+        },
+        "2022-Q2": {
+          "price": 3914,
+          "unit": null,
+          "count": 262
+        },
+        "2022-Q3": {
+          "price": 4007,
+          "unit": null,
+          "count": 252
+        },
+        "2022-Q4": {
+          "price": 3994,
+          "unit": null,
+          "count": 256
+        },
+        "2023-Q1": {
+          "price": 4177,
+          "unit": null,
+          "count": 255
+        },
+        "2023-Q2": {
+          "price": 3889,
+          "unit": null,
+          "count": 265
+        },
+        "2023-Q3": {
+          "price": 4238,
+          "unit": null,
+          "count": 264
+        },
+        "2023-Q4": {
+          "price": 4418,
+          "unit": null,
+          "count": 237
+        },
+        "2024-Q1": {
+          "price": 4577,
+          "unit": null,
+          "count": 287
+        },
+        "2024-Q2": {
+          "price": 4740,
+          "unit": null,
+          "count": 258
+        },
+        "2024-Q3": {
+          "price": 4381,
+          "unit": null,
+          "count": 247
+        },
+        "2024-Q4": {
+          "price": 4511,
+          "unit": null,
+          "count": 268
+        },
+        "2025-Q1": {
+          "price": 4274,
+          "unit": null,
+          "count": 290
+        },
+        "2025-Q2": {
+          "price": 4053,
+          "unit": null,
+          "count": 331
+        },
+        "2025-Q3": {
+          "price": 4437,
+          "unit": null,
+          "count": 300
+        },
+        "2025-Q4": {
+          "price": 4537,
+          "unit": null,
+          "count": 276
+        }
+      },
+      "2LDK": {
+        "2021-Q1": {
+          "price": 3035,
+          "unit": null,
+          "count": 683
+        },
+        "2021-Q2": {
+          "price": 3000,
+          "unit": null,
+          "count": 782
+        },
+        "2021-Q3": {
+          "price": 3184,
+          "unit": null,
+          "count": 659
+        },
+        "2021-Q4": {
+          "price": 3228,
+          "unit": null,
+          "count": 750
+        },
+        "2022-Q1": {
+          "price": 3360,
+          "unit": null,
+          "count": 710
+        },
+        "2022-Q2": {
+          "price": 3355,
+          "unit": null,
+          "count": 744
+        },
+        "2022-Q3": {
+          "price": 3360,
+          "unit": null,
+          "count": 625
+        },
+        "2022-Q4": {
+          "price": 3483,
+          "unit": null,
+          "count": 692
+        },
+        "2023-Q1": {
+          "price": 3459,
+          "unit": null,
+          "count": 676
+        },
+        "2023-Q2": {
+          "price": 3632,
+          "unit": null,
+          "count": 677
+        },
+        "2023-Q3": {
+          "price": 3676,
+          "unit": null,
+          "count": 699
+        },
+        "2023-Q4": {
+          "price": 3665,
+          "unit": null,
+          "count": 672
+        },
+        "2024-Q1": {
+          "price": 3969,
+          "unit": null,
+          "count": 742
+        },
+        "2024-Q2": {
+          "price": 3946,
+          "unit": null,
+          "count": 730
+        },
+        "2024-Q3": {
+          "price": 3702,
+          "unit": null,
+          "count": 693
+        },
+        "2024-Q4": {
+          "price": 3904,
+          "unit": null,
+          "count": 699
+        },
+        "2025-Q1": {
+          "price": 3963,
+          "unit": null,
+          "count": 842
+        },
+        "2025-Q2": {
+          "price": 3881,
+          "unit": null,
+          "count": 799
+        },
+        "2025-Q3": {
+          "price": 4070,
+          "unit": null,
+          "count": 849
+        },
+        "2025-Q4": {
+          "price": 4080,
+          "unit": null,
+          "count": 725
+        }
+      },
+      "2DK": {
+        "2021-Q1": {
+          "price": 1686,
+          "unit": null,
+          "count": 82
+        },
+        "2021-Q2": {
+          "price": 1726,
+          "unit": null,
+          "count": 108
+        },
+        "2021-Q3": {
+          "price": 1728,
+          "unit": null,
+          "count": 89
+        },
+        "2021-Q4": {
+          "price": 1633,
+          "unit": null,
+          "count": 93
+        },
+        "2022-Q1": {
+          "price": 1638,
+          "unit": null,
+          "count": 78
+        },
+        "2022-Q2": {
+          "price": 1476,
+          "unit": null,
+          "count": 83
+        },
+        "2022-Q3": {
+          "price": 1770,
+          "unit": null,
+          "count": 77
+        },
+        "2022-Q4": {
+          "price": 1460,
+          "unit": null,
+          "count": 95
+        },
+        "2023-Q1": {
+          "price": 1997,
+          "unit": null,
+          "count": 90
+        },
+        "2023-Q2": {
+          "price": 1734,
+          "unit": null,
+          "count": 79
+        },
+        "2023-Q3": {
+          "price": 2149,
+          "unit": null,
+          "count": 76
+        },
+        "2023-Q4": {
+          "price": 1709,
+          "unit": null,
+          "count": 72
+        },
+        "2024-Q1": {
+          "price": 2201,
+          "unit": null,
+          "count": 90
+        },
+        "2024-Q2": {
+          "price": 1863,
+          "unit": null,
+          "count": 85
+        },
+        "2024-Q3": {
+          "price": 1728,
+          "unit": null,
+          "count": 64
+        },
+        "2024-Q4": {
+          "price": 1575,
+          "unit": null,
+          "count": 99
+        },
+        "2025-Q1": {
+          "price": 1731,
+          "unit": null,
+          "count": 109
+        },
+        "2025-Q2": {
+          "price": 1647,
+          "unit": null,
+          "count": 103
+        },
+        "2025-Q3": {
+          "price": 1654,
+          "unit": null,
+          "count": 89
+        },
+        "2025-Q4": {
+          "price": 1714,
+          "unit": null,
+          "count": 92
+        }
+      },
+      "2K": {
+        "2021-Q1": {
+          "price": 1024,
+          "unit": null,
+          "count": 11
+        },
+        "2021-Q2": {
+          "price": 1100,
+          "unit": null,
+          "count": 9
+        },
+        "2021-Q3": {
+          "price": 1255,
+          "unit": null,
+          "count": 11
+        },
+        "2021-Q4": {
+          "price": 985,
+          "unit": null,
+          "count": 15
+        },
+        "2022-Q1": {
+          "price": 1132,
+          "unit": null,
+          "count": 12
+        },
+        "2022-Q2": {
+          "price": 1278,
+          "unit": null,
+          "count": 10
+        },
+        "2022-Q3": {
+          "price": 911,
+          "unit": null,
+          "count": 22
+        },
+        "2022-Q4": {
+          "price": 1063,
+          "unit": null,
+          "count": 10
+        },
+        "2023-Q1": {
+          "price": 945,
+          "unit": null,
+          "count": 14
+        },
+        "2023-Q2": {
+          "price": 1050,
+          "unit": null,
+          "count": 14
+        },
+        "2023-Q3": {
+          "price": 874,
+          "unit": null,
+          "count": 8
+        },
+        "2023-Q4": {
+          "price": 1050,
+          "unit": null,
+          "count": 13
+        },
+        "2024-Q1": {
+          "price": 1314,
+          "unit": null,
+          "count": 14
+        },
+        "2024-Q2": {
+          "price": 1218,
+          "unit": null,
+          "count": 6
+        },
+        "2024-Q3": {
+          "price": 1531,
+          "unit": null,
+          "count": 10
+        },
+        "2024-Q4": {
+          "price": 910,
+          "unit": null,
+          "count": 10
+        },
+        "2025-Q1": {
+          "price": 1412,
+          "unit": null,
+          "count": 16
+        },
+        "2025-Q2": {
+          "price": 1351,
+          "unit": null,
+          "count": 14
+        },
+        "2025-Q3": {
+          "price": 1800,
+          "unit": null,
+          "count": 7
+        },
+        "2025-Q4": {
+          "price": 1478,
+          "unit": null,
+          "count": 8
+        }
+      },
+      "1LDK": {
+        "2021-Q1": {
+          "price": 2932,
+          "unit": null,
+          "count": 142
+        },
+        "2021-Q2": {
+          "price": 2684,
+          "unit": null,
+          "count": 159
+        },
+        "2021-Q3": {
+          "price": 2964,
+          "unit": null,
+          "count": 165
+        },
+        "2021-Q4": {
+          "price": 2770,
+          "unit": null,
+          "count": 207
+        },
+        "2022-Q1": {
+          "price": 2891,
+          "unit": null,
+          "count": 178
+        },
+        "2022-Q2": {
+          "price": 3084,
+          "unit": null,
+          "count": 191
+        },
+        "2022-Q3": {
+          "price": 2969,
+          "unit": null,
+          "count": 154
+        },
+        "2022-Q4": {
+          "price": 2955,
+          "unit": null,
+          "count": 176
+        },
+        "2023-Q1": {
+          "price": 3216,
+          "unit": null,
+          "count": 182
+        },
+        "2023-Q2": {
+          "price": 3072,
+          "unit": null,
+          "count": 183
+        },
+        "2023-Q3": {
+          "price": 3464,
+          "unit": null,
+          "count": 177
+        },
+        "2023-Q4": {
+          "price": 3307,
+          "unit": null,
+          "count": 177
+        },
+        "2024-Q1": {
+          "price": 3413,
+          "unit": null,
+          "count": 213
+        },
+        "2024-Q2": {
+          "price": 3641,
+          "unit": null,
+          "count": 211
+        },
+        "2024-Q3": {
+          "price": 3183,
+          "unit": null,
+          "count": 214
+        },
+        "2024-Q4": {
+          "price": 3411,
+          "unit": null,
+          "count": 192
+        },
+        "2025-Q1": {
+          "price": 3381,
+          "unit": null,
+          "count": 238
+        },
+        "2025-Q2": {
+          "price": 3565,
+          "unit": null,
+          "count": 237
+        },
+        "2025-Q3": {
+          "price": 3329,
+          "unit": null,
+          "count": 228
+        },
+        "2025-Q4": {
+          "price": 3624,
+          "unit": null,
+          "count": 213
+        }
+      },
+      "3DK": {
+        "2021-Q1": {
+          "price": 1113,
+          "unit": null,
+          "count": 98
+        },
+        "2021-Q2": {
+          "price": 1030,
+          "unit": null,
+          "count": 112
+        },
+        "2021-Q3": {
+          "price": 1195,
+          "unit": null,
+          "count": 110
+        },
+        "2021-Q4": {
+          "price": 1220,
+          "unit": null,
+          "count": 100
+        },
+        "2022-Q1": {
+          "price": 1318,
+          "unit": null,
+          "count": 132
+        },
+        "2022-Q2": {
+          "price": 1266,
+          "unit": null,
+          "count": 108
+        },
+        "2022-Q3": {
+          "price": 1276,
+          "unit": null,
+          "count": 82
+        },
+        "2022-Q4": {
+          "price": 1206,
+          "unit": null,
+          "count": 73
+        },
+        "2023-Q1": {
+          "price": 1295,
+          "unit": null,
+          "count": 98
+        },
+        "2023-Q2": {
+          "price": 1325,
+          "unit": null,
+          "count": 102
+        },
+        "2023-Q3": {
+          "price": 1195,
+          "unit": null,
+          "count": 96
+        },
+        "2023-Q4": {
+          "price": 1493,
+          "unit": null,
+          "count": 114
+        },
+        "2024-Q1": {
+          "price": 1499,
+          "unit": null,
+          "count": 95
+        },
+        "2024-Q2": {
+          "price": 1251,
+          "unit": null,
+          "count": 106
+        },
+        "2024-Q3": {
+          "price": 1234,
+          "unit": null,
+          "count": 75
+        },
+        "2024-Q4": {
+          "price": 1236,
+          "unit": null,
+          "count": 132
+        },
+        "2025-Q1": {
+          "price": 1237,
+          "unit": null,
+          "count": 156
+        },
+        "2025-Q2": {
+          "price": 1156,
+          "unit": null,
+          "count": 139
+        },
+        "2025-Q3": {
+          "price": 1263,
+          "unit": null,
+          "count": 124
+        },
+        "2025-Q4": {
+          "price": 1380,
+          "unit": null,
+          "count": 141
+        }
+      },
+      "1DK": {
+        "2021-Q1": {
+          "price": 1524,
+          "unit": null,
+          "count": 42
+        },
+        "2021-Q2": {
+          "price": 1474,
+          "unit": null,
+          "count": 71
+        },
+        "2021-Q3": {
+          "price": 1481,
+          "unit": null,
+          "count": 61
+        },
+        "2021-Q4": {
+          "price": 2015,
+          "unit": null,
+          "count": 72
+        },
+        "2022-Q1": {
+          "price": 1632,
+          "unit": null,
+          "count": 66
+        },
+        "2022-Q2": {
+          "price": 2087,
+          "unit": null,
+          "count": 65
+        },
+        "2022-Q3": {
+          "price": 1968,
+          "unit": null,
+          "count": 58
+        },
+        "2022-Q4": {
+          "price": 1757,
+          "unit": null,
+          "count": 64
+        },
+        "2023-Q1": {
+          "price": 1881,
+          "unit": null,
+          "count": 49
+        },
+        "2023-Q2": {
+          "price": 1695,
+          "unit": null,
+          "count": 55
+        },
+        "2023-Q3": {
+          "price": 1984,
+          "unit": null,
+          "count": 57
+        },
+        "2023-Q4": {
+          "price": 2135,
+          "unit": null,
+          "count": 63
+        },
+        "2024-Q1": {
+          "price": 2015,
+          "unit": null,
+          "count": 64
+        },
+        "2024-Q2": {
+          "price": 2056,
+          "unit": null,
+          "count": 55
+        },
+        "2024-Q3": {
+          "price": 1933,
+          "unit": null,
+          "count": 61
+        },
+        "2024-Q4": {
+          "price": 1842,
+          "unit": null,
+          "count": 62
+        },
+        "2025-Q1": {
+          "price": 1874,
+          "unit": null,
+          "count": 69
+        },
+        "2025-Q2": {
+          "price": 1728,
+          "unit": null,
+          "count": 59
+        },
+        "2025-Q3": {
+          "price": 2138,
+          "unit": null,
+          "count": 63
+        },
+        "2025-Q4": {
+          "price": 1947,
+          "unit": null,
+          "count": 58
+        }
+      }
+    },
+    "大阪府": {
+      "1K": {
+        "2021-Q1": {
+          "price": 1380,
+          "unit": null,
+          "count": 304
+        },
+        "2021-Q2": {
+          "price": 1421,
+          "unit": null,
+          "count": 360
+        },
+        "2021-Q3": {
+          "price": 1469,
+          "unit": null,
+          "count": 415
+        },
+        "2021-Q4": {
+          "price": 1462,
+          "unit": null,
+          "count": 429
+        },
+        "2022-Q1": {
+          "price": 1455,
+          "unit": null,
+          "count": 402
+        },
+        "2022-Q2": {
+          "price": 1478,
+          "unit": null,
+          "count": 491
+        },
+        "2022-Q3": {
+          "price": 1493,
+          "unit": null,
+          "count": 477
+        },
+        "2022-Q4": {
+          "price": 1523,
+          "unit": null,
+          "count": 492
+        },
+        "2023-Q1": {
+          "price": 1525,
+          "unit": null,
+          "count": 494
+        },
+        "2023-Q2": {
+          "price": 1536,
+          "unit": null,
+          "count": 494
+        },
+        "2023-Q3": {
+          "price": 1552,
+          "unit": null,
+          "count": 551
+        },
+        "2023-Q4": {
+          "price": 1611,
+          "unit": null,
+          "count": 553
+        },
+        "2024-Q1": {
+          "price": 1635,
+          "unit": null,
+          "count": 534
+        },
+        "2024-Q2": {
+          "price": 1649,
+          "unit": null,
+          "count": 490
+        },
+        "2024-Q3": {
+          "price": 1673,
+          "unit": null,
+          "count": 479
+        },
+        "2024-Q4": {
+          "price": 1696,
+          "unit": null,
+          "count": 566
+        },
+        "2025-Q1": {
+          "price": 1713,
+          "unit": null,
+          "count": 613
+        },
+        "2025-Q2": {
+          "price": 1672,
+          "unit": null,
+          "count": 571
+        },
+        "2025-Q3": {
+          "price": 1735,
+          "unit": null,
+          "count": 595
+        },
+        "2025-Q4": {
+          "price": 1788,
+          "unit": null,
+          "count": 408
+        }
+      },
+      "3LDK": {
+        "2021-Q1": {
+          "price": 2671,
+          "unit": null,
+          "count": 1652
+        },
+        "2021-Q2": {
+          "price": 2697,
+          "unit": null,
+          "count": 1879
+        },
+        "2021-Q3": {
+          "price": 2698,
+          "unit": null,
+          "count": 1618
+        },
+        "2021-Q4": {
+          "price": 2762,
+          "unit": null,
+          "count": 1848
+        },
+        "2022-Q1": {
+          "price": 2820,
+          "unit": null,
+          "count": 1764
+        },
+        "2022-Q2": {
+          "price": 2878,
+          "unit": null,
+          "count": 1757
+        },
+        "2022-Q3": {
+          "price": 2872,
+          "unit": null,
+          "count": 1616
+        },
+        "2022-Q4": {
+          "price": 2953,
+          "unit": null,
+          "count": 1645
+        },
+        "2023-Q1": {
+          "price": 3037,
+          "unit": null,
+          "count": 1714
+        },
+        "2023-Q2": {
+          "price": 2941,
+          "unit": null,
+          "count": 1624
+        },
+        "2023-Q3": {
+          "price": 3096,
+          "unit": null,
+          "count": 1620
+        },
+        "2023-Q4": {
+          "price": 3161,
+          "unit": null,
+          "count": 1767
+        },
+        "2024-Q1": {
+          "price": 3262,
+          "unit": null,
+          "count": 1795
+        },
+        "2024-Q2": {
+          "price": 3209,
+          "unit": null,
+          "count": 1778
+        },
+        "2024-Q3": {
+          "price": 3378,
+          "unit": null,
+          "count": 1563
+        },
+        "2024-Q4": {
+          "price": 3367,
+          "unit": null,
+          "count": 1715
+        },
+        "2025-Q1": {
+          "price": 3454,
+          "unit": null,
+          "count": 1987
+        },
+        "2025-Q2": {
+          "price": 3508,
+          "unit": null,
+          "count": 1814
+        },
+        "2025-Q3": {
+          "price": 3646,
+          "unit": null,
+          "count": 1693
+        },
+        "2025-Q4": {
+          "price": 3624,
+          "unit": null,
+          "count": 1569
+        }
+      },
+      "2LDK": {
+        "2021-Q1": {
+          "price": 3048,
+          "unit": null,
+          "count": 619
+        },
+        "2021-Q2": {
+          "price": 3157,
+          "unit": null,
+          "count": 648
+        },
+        "2021-Q3": {
+          "price": 3198,
+          "unit": null,
+          "count": 568
+        },
+        "2021-Q4": {
+          "price": 3229,
+          "unit": null,
+          "count": 690
+        },
+        "2022-Q1": {
+          "price": 3203,
+          "unit": null,
+          "count": 670
+        },
+        "2022-Q2": {
+          "price": 3285,
+          "unit": null,
+          "count": 701
+        },
+        "2022-Q3": {
+          "price": 3237,
+          "unit": null,
+          "count": 608
+        },
+        "2022-Q4": {
+          "price": 3360,
+          "unit": null,
+          "count": 617
+        },
+        "2023-Q1": {
+          "price": 3281,
+          "unit": null,
+          "count": 631
+        },
+        "2023-Q2": {
+          "price": 3365,
+          "unit": null,
+          "count": 636
+        },
+        "2023-Q3": {
+          "price": 3563,
+          "unit": null,
+          "count": 621
+        },
+        "2023-Q4": {
+          "price": 3843,
+          "unit": null,
+          "count": 674
+        },
+        "2024-Q1": {
+          "price": 3575,
+          "unit": null,
+          "count": 703
+        },
+        "2024-Q2": {
+          "price": 3764,
+          "unit": null,
+          "count": 715
+        },
+        "2024-Q3": {
+          "price": 4213,
+          "unit": null,
+          "count": 668
+        },
+        "2024-Q4": {
+          "price": 4256,
+          "unit": null,
+          "count": 757
+        },
+        "2025-Q1": {
+          "price": 4457,
+          "unit": null,
+          "count": 831
+        },
+        "2025-Q2": {
+          "price": 4299,
+          "unit": null,
+          "count": 771
+        },
+        "2025-Q3": {
+          "price": 4608,
+          "unit": null,
+          "count": 780
+        },
+        "2025-Q4": {
+          "price": 4610,
+          "unit": null,
+          "count": 677
+        }
+      },
+      "4LDK以上": {
+        "2021-Q1": {
+          "price": 2784,
+          "unit": null,
+          "count": 348
+        },
+        "2021-Q2": {
+          "price": 2734,
+          "unit": null,
+          "count": 376
+        },
+        "2021-Q3": {
+          "price": 2843,
+          "unit": null,
+          "count": 341
+        },
+        "2021-Q4": {
+          "price": 2872,
+          "unit": null,
+          "count": 345
+        },
+        "2022-Q1": {
+          "price": 2868,
+          "unit": null,
+          "count": 381
+        },
+        "2022-Q2": {
+          "price": 3139,
+          "unit": null,
+          "count": 365
+        },
+        "2022-Q3": {
+          "price": 3190,
+          "unit": null,
+          "count": 325
+        },
+        "2022-Q4": {
+          "price": 3209,
+          "unit": null,
+          "count": 339
+        },
+        "2023-Q1": {
+          "price": 3011,
+          "unit": null,
+          "count": 333
+        },
+        "2023-Q2": {
+          "price": 3052,
+          "unit": null,
+          "count": 303
+        },
+        "2023-Q3": {
+          "price": 3166,
+          "unit": null,
+          "count": 300
+        },
+        "2023-Q4": {
+          "price": 3210,
+          "unit": null,
+          "count": 306
+        },
+        "2024-Q1": {
+          "price": 3301,
+          "unit": null,
+          "count": 337
+        },
+        "2024-Q2": {
+          "price": 3475,
+          "unit": null,
+          "count": 355
+        },
+        "2024-Q3": {
+          "price": 3221,
+          "unit": null,
+          "count": 321
+        },
+        "2024-Q4": {
+          "price": 3334,
+          "unit": null,
+          "count": 305
+        },
+        "2025-Q1": {
+          "price": 3494,
+          "unit": null,
+          "count": 358
+        },
+        "2025-Q2": {
+          "price": 3238,
+          "unit": null,
+          "count": 336
+        },
+        "2025-Q3": {
+          "price": 3155,
+          "unit": null,
+          "count": 306
+        },
+        "2025-Q4": {
+          "price": 3439,
+          "unit": null,
+          "count": 305
+        }
+      },
+      "1LDK": {
+        "2021-Q1": {
+          "price": 2721,
+          "unit": null,
+          "count": 151
+        },
+        "2021-Q2": {
+          "price": 2726,
+          "unit": null,
+          "count": 192
+        },
+        "2021-Q3": {
+          "price": 2724,
+          "unit": null,
+          "count": 151
+        },
+        "2021-Q4": {
+          "price": 2752,
+          "unit": null,
+          "count": 199
+        },
+        "2022-Q1": {
+          "price": 3198,
+          "unit": null,
+          "count": 190
+        },
+        "2022-Q2": {
+          "price": 3089,
+          "unit": null,
+          "count": 201
+        },
+        "2022-Q3": {
+          "price": 2629,
+          "unit": null,
+          "count": 192
+        },
+        "2022-Q4": {
+          "price": 2937,
+          "unit": null,
+          "count": 224
+        },
+        "2023-Q1": {
+          "price": 3132,
+          "unit": null,
+          "count": 207
+        },
+        "2023-Q2": {
+          "price": 2842,
+          "unit": null,
+          "count": 179
+        },
+        "2023-Q3": {
+          "price": 2999,
+          "unit": null,
+          "count": 199
+        },
+        "2023-Q4": {
+          "price": 3426,
+          "unit": null,
+          "count": 246
+        },
+        "2024-Q1": {
+          "price": 3640,
+          "unit": null,
+          "count": 213
+        },
+        "2024-Q2": {
+          "price": 3433,
+          "unit": null,
+          "count": 229
+        },
+        "2024-Q3": {
+          "price": 3673,
+          "unit": null,
+          "count": 223
+        },
+        "2024-Q4": {
+          "price": 3386,
+          "unit": null,
+          "count": 216
+        },
+        "2025-Q1": {
+          "price": 3691,
+          "unit": null,
+          "count": 262
+        },
+        "2025-Q2": {
+          "price": 3737,
+          "unit": null,
+          "count": 265
+        },
+        "2025-Q3": {
+          "price": 3860,
+          "unit": null,
+          "count": 253
+        },
+        "2025-Q4": {
+          "price": 3884,
+          "unit": null,
+          "count": 214
+        }
+      },
+      "1DK": {
+        "2021-Q1": {
+          "price": 1548,
+          "unit": null,
+          "count": 46
+        },
+        "2021-Q2": {
+          "price": 1880,
+          "unit": null,
+          "count": 49
+        },
+        "2021-Q3": {
+          "price": 1871,
+          "unit": null,
+          "count": 45
+        },
+        "2021-Q4": {
+          "price": 1713,
+          "unit": null,
+          "count": 64
+        },
+        "2022-Q1": {
+          "price": 1488,
+          "unit": null,
+          "count": 61
+        },
+        "2022-Q2": {
+          "price": 1715,
+          "unit": null,
+          "count": 63
+        },
+        "2022-Q3": {
+          "price": 1641,
+          "unit": null,
+          "count": 61
+        },
+        "2022-Q4": {
+          "price": 1714,
+          "unit": null,
+          "count": 63
+        },
+        "2023-Q1": {
+          "price": 1771,
+          "unit": null,
+          "count": 50
+        },
+        "2023-Q2": {
+          "price": 1794,
+          "unit": null,
+          "count": 64
+        },
+        "2023-Q3": {
+          "price": 2015,
+          "unit": null,
+          "count": 67
+        },
+        "2023-Q4": {
+          "price": 1910,
+          "unit": null,
+          "count": 67
+        },
+        "2024-Q1": {
+          "price": 2191,
+          "unit": null,
+          "count": 61
+        },
+        "2024-Q2": {
+          "price": 1937,
+          "unit": null,
+          "count": 77
+        },
+        "2024-Q3": {
+          "price": 1865,
+          "unit": null,
+          "count": 60
+        },
+        "2024-Q4": {
+          "price": 2068,
+          "unit": null,
+          "count": 56
+        },
+        "2025-Q1": {
+          "price": 1851,
+          "unit": null,
+          "count": 70
+        },
+        "2025-Q2": {
+          "price": 1944,
+          "unit": null,
+          "count": 60
+        },
+        "2025-Q3": {
+          "price": 1918,
+          "unit": null,
+          "count": 74
+        },
+        "2025-Q4": {
+          "price": 1857,
+          "unit": null,
+          "count": 55
+        }
+      },
+      "2DK": {
+        "2021-Q1": {
+          "price": 1674,
+          "unit": null,
+          "count": 60
+        },
+        "2021-Q2": {
+          "price": 1532,
+          "unit": null,
+          "count": 65
+        },
+        "2021-Q3": {
+          "price": 1508,
+          "unit": null,
+          "count": 63
+        },
+        "2021-Q4": {
+          "price": 1664,
+          "unit": null,
+          "count": 77
+        },
+        "2022-Q1": {
+          "price": 1709,
+          "unit": null,
+          "count": 74
+        },
+        "2022-Q2": {
+          "price": 1404,
+          "unit": null,
+          "count": 75
+        },
+        "2022-Q3": {
+          "price": 1603,
+          "unit": null,
+          "count": 66
+        },
+        "2022-Q4": {
+          "price": 1637,
+          "unit": null,
+          "count": 57
+        },
+        "2023-Q1": {
+          "price": 1625,
+          "unit": null,
+          "count": 55
+        },
+        "2023-Q2": {
+          "price": 1467,
+          "unit": null,
+          "count": 48
+        },
+        "2023-Q3": {
+          "price": 2082,
+          "unit": null,
+          "count": 57
+        },
+        "2023-Q4": {
+          "price": 1255,
+          "unit": null,
+          "count": 55
+        },
+        "2024-Q1": {
+          "price": 1735,
+          "unit": null,
+          "count": 66
+        },
+        "2024-Q2": {
+          "price": 2037,
+          "unit": null,
+          "count": 73
+        },
+        "2024-Q3": {
+          "price": 1740,
+          "unit": null,
+          "count": 67
+        },
+        "2024-Q4": {
+          "price": 1581,
+          "unit": null,
+          "count": 66
+        },
+        "2025-Q1": {
+          "price": 1348,
+          "unit": null,
+          "count": 78
+        },
+        "2025-Q2": {
+          "price": 1565,
+          "unit": null,
+          "count": 91
+        },
+        "2025-Q3": {
+          "price": 2042,
+          "unit": null,
+          "count": 65
+        },
+        "2025-Q4": {
+          "price": 1486,
+          "unit": null,
+          "count": 57
+        }
+      },
+      "3DK": {
+        "2021-Q1": {
+          "price": 1093,
+          "unit": null,
+          "count": 55
+        },
+        "2021-Q2": {
+          "price": 977,
+          "unit": null,
+          "count": 79
+        },
+        "2021-Q3": {
+          "price": 977,
+          "unit": null,
+          "count": 63
+        },
+        "2021-Q4": {
+          "price": 998,
+          "unit": null,
+          "count": 104
+        },
+        "2022-Q1": {
+          "price": 1057,
+          "unit": null,
+          "count": 61
+        },
+        "2022-Q2": {
+          "price": 1014,
+          "unit": null,
+          "count": 78
+        },
+        "2022-Q3": {
+          "price": 1078,
+          "unit": null,
+          "count": 66
+        },
+        "2022-Q4": {
+          "price": 1240,
+          "unit": null,
+          "count": 70
+        },
+        "2023-Q1": {
+          "price": 1117,
+          "unit": null,
+          "count": 80
+        },
+        "2023-Q2": {
+          "price": 1095,
+          "unit": null,
+          "count": 96
+        },
+        "2023-Q3": {
+          "price": 1037,
+          "unit": null,
+          "count": 74
+        },
+        "2023-Q4": {
+          "price": 948,
+          "unit": null,
+          "count": 73
+        },
+        "2024-Q1": {
+          "price": 1017,
+          "unit": null,
+          "count": 83
+        },
+        "2024-Q2": {
+          "price": 1142,
+          "unit": null,
+          "count": 63
+        },
+        "2024-Q3": {
+          "price": 1150,
+          "unit": null,
+          "count": 69
+        },
+        "2024-Q4": {
+          "price": 917,
+          "unit": null,
+          "count": 76
+        },
+        "2025-Q1": {
+          "price": 1051,
+          "unit": null,
+          "count": 92
+        },
+        "2025-Q2": {
+          "price": 1022,
+          "unit": null,
+          "count": 88
+        },
+        "2025-Q3": {
+          "price": 1061,
+          "unit": null,
+          "count": 65
+        },
+        "2025-Q4": {
+          "price": 959,
+          "unit": null,
+          "count": 75
+        }
+      },
+      "2K": {
+        "2021-Q2": {
+          "price": 771,
+          "unit": null,
+          "count": 9
+        },
+        "2021-Q4": {
+          "price": 935,
+          "unit": null,
+          "count": 12
+        },
+        "2022-Q3": {
+          "price": 1085,
+          "unit": null,
+          "count": 8
+        },
+        "2023-Q2": {
+          "price": 978,
+          "unit": null,
+          "count": 8
+        },
+        "2023-Q4": {
+          "price": 1110,
+          "unit": null,
+          "count": 6
+        },
+        "2024-Q1": {
+          "price": 2567,
+          "unit": null,
+          "count": 6
+        },
+        "2024-Q2": {
+          "price": 1175,
+          "unit": null,
+          "count": 6
+        },
+        "2024-Q4": {
+          "price": 490,
+          "unit": null,
+          "count": 5
+        },
+        "2025-Q1": {
+          "price": 1233,
+          "unit": null,
+          "count": 6
+        },
+        "2025-Q2": {
+          "price": 1026,
+          "unit": null,
+          "count": 10
+        },
+        "2025-Q3": {
+          "price": 1029,
+          "unit": null,
+          "count": 13
+        },
+        "2025-Q4": {
+          "price": 629,
+          "unit": null,
+          "count": 7
+        }
+      }
+    },
+    "愛知県": {
+      "3LDK": {
+        "2021-Q1": {
+          "price": 2259,
+          "unit": null,
+          "count": 764
+        },
+        "2021-Q2": {
+          "price": 2314,
+          "unit": null,
+          "count": 893
+        },
+        "2021-Q3": {
+          "price": 2406,
+          "unit": null,
+          "count": 795
+        },
+        "2021-Q4": {
+          "price": 2454,
+          "unit": null,
+          "count": 841
+        },
+        "2022-Q1": {
+          "price": 2447,
+          "unit": null,
+          "count": 860
+        },
+        "2022-Q2": {
+          "price": 2360,
+          "unit": null,
+          "count": 876
+        },
+        "2022-Q3": {
+          "price": 2365,
+          "unit": null,
+          "count": 791
+        },
+        "2022-Q4": {
+          "price": 2459,
+          "unit": null,
+          "count": 842
+        },
+        "2023-Q1": {
+          "price": 2506,
+          "unit": null,
+          "count": 799
+        },
+        "2023-Q2": {
+          "price": 2440,
+          "unit": null,
+          "count": 713
+        },
+        "2023-Q3": {
+          "price": 2527,
+          "unit": null,
+          "count": 748
+        },
+        "2023-Q4": {
+          "price": 2436,
+          "unit": null,
+          "count": 738
+        },
+        "2024-Q1": {
+          "price": 2634,
+          "unit": null,
+          "count": 798
+        },
+        "2024-Q2": {
+          "price": 2619,
+          "unit": null,
+          "count": 768
+        },
+        "2024-Q3": {
+          "price": 2612,
+          "unit": null,
+          "count": 731
+        },
+        "2024-Q4": {
+          "price": 2503,
+          "unit": null,
+          "count": 737
+        },
+        "2025-Q1": {
+          "price": 2632,
+          "unit": null,
+          "count": 958
+        },
+        "2025-Q2": {
+          "price": 2625,
+          "unit": null,
+          "count": 819
+        },
+        "2025-Q3": {
+          "price": 2543,
+          "unit": null,
+          "count": 773
+        },
+        "2025-Q4": {
+          "price": 2582,
+          "unit": null,
+          "count": 769
+        }
+      },
+      "4LDK以上": {
+        "2021-Q1": {
+          "price": 2238,
+          "unit": null,
+          "count": 322
+        },
+        "2021-Q2": {
+          "price": 2313,
+          "unit": null,
+          "count": 386
+        },
+        "2021-Q3": {
+          "price": 2407,
+          "unit": null,
+          "count": 385
+        },
+        "2021-Q4": {
+          "price": 2323,
+          "unit": null,
+          "count": 353
+        },
+        "2022-Q1": {
+          "price": 2404,
+          "unit": null,
+          "count": 408
+        },
+        "2022-Q2": {
+          "price": 2401,
+          "unit": null,
+          "count": 341
+        },
+        "2022-Q3": {
+          "price": 2560,
+          "unit": null,
+          "count": 316
+        },
+        "2022-Q4": {
+          "price": 2308,
+          "unit": null,
+          "count": 322
+        },
+        "2023-Q1": {
+          "price": 2403,
+          "unit": null,
+          "count": 349
+        },
+        "2023-Q2": {
+          "price": 2538,
+          "unit": null,
+          "count": 296
+        },
+        "2023-Q3": {
+          "price": 2547,
+          "unit": null,
+          "count": 295
+        },
+        "2023-Q4": {
+          "price": 2543,
+          "unit": null,
+          "count": 280
+        },
+        "2024-Q1": {
+          "price": 2520,
+          "unit": null,
+          "count": 293
+        },
+        "2024-Q2": {
+          "price": 2481,
+          "unit": null,
+          "count": 330
+        },
+        "2024-Q3": {
+          "price": 2298,
+          "unit": null,
+          "count": 311
+        },
+        "2024-Q4": {
+          "price": 2470,
+          "unit": null,
+          "count": 308
+        },
+        "2025-Q1": {
+          "price": 2395,
+          "unit": null,
+          "count": 392
+        },
+        "2025-Q2": {
+          "price": 2332,
+          "unit": null,
+          "count": 339
+        },
+        "2025-Q3": {
+          "price": 2317,
+          "unit": null,
+          "count": 358
+        },
+        "2025-Q4": {
+          "price": 2456,
+          "unit": null,
+          "count": 302
+        }
+      },
+      "1K": {
+        "2021-Q1": {
+          "price": 971,
+          "unit": null,
+          "count": 98
+        },
+        "2021-Q2": {
+          "price": 1121,
+          "unit": null,
+          "count": 122
+        },
+        "2021-Q3": {
+          "price": 955,
+          "unit": null,
+          "count": 99
+        },
+        "2021-Q4": {
+          "price": 979,
+          "unit": null,
+          "count": 107
+        },
+        "2022-Q1": {
+          "price": 1083,
+          "unit": null,
+          "count": 78
+        },
+        "2022-Q2": {
+          "price": 1160,
+          "unit": null,
+          "count": 128
+        },
+        "2022-Q3": {
+          "price": 1108,
+          "unit": null,
+          "count": 85
+        },
+        "2022-Q4": {
+          "price": 1198,
+          "unit": null,
+          "count": 85
+        },
+        "2023-Q1": {
+          "price": 1132,
+          "unit": null,
+          "count": 97
+        },
+        "2023-Q2": {
+          "price": 1214,
+          "unit": null,
+          "count": 91
+        },
+        "2023-Q3": {
+          "price": 1238,
+          "unit": null,
+          "count": 77
+        },
+        "2023-Q4": {
+          "price": 1382,
+          "unit": null,
+          "count": 112
+        },
+        "2024-Q1": {
+          "price": 1389,
+          "unit": null,
+          "count": 106
+        },
+        "2024-Q2": {
+          "price": 1391,
+          "unit": null,
+          "count": 103
+        },
+        "2024-Q3": {
+          "price": 1206,
+          "unit": null,
+          "count": 88
+        },
+        "2024-Q4": {
+          "price": 1412,
+          "unit": null,
+          "count": 133
+        },
+        "2025-Q1": {
+          "price": 1464,
+          "unit": null,
+          "count": 104
+        },
+        "2025-Q2": {
+          "price": 1247,
+          "unit": null,
+          "count": 98
+        },
+        "2025-Q3": {
+          "price": 1463,
+          "unit": null,
+          "count": 101
+        },
+        "2025-Q4": {
+          "price": 1459,
+          "unit": null,
+          "count": 57
+        }
+      },
+      "2LDK": {
+        "2021-Q1": {
+          "price": 2409,
+          "unit": null,
+          "count": 202
+        },
+        "2021-Q2": {
+          "price": 2238,
+          "unit": null,
+          "count": 210
+        },
+        "2021-Q3": {
+          "price": 2293,
+          "unit": null,
+          "count": 200
+        },
+        "2021-Q4": {
+          "price": 2296,
+          "unit": null,
+          "count": 270
+        },
+        "2022-Q1": {
+          "price": 2549,
+          "unit": null,
+          "count": 221
+        },
+        "2022-Q2": {
+          "price": 2290,
+          "unit": null,
+          "count": 214
+        },
+        "2022-Q3": {
+          "price": 2393,
+          "unit": null,
+          "count": 237
+        },
+        "2022-Q4": {
+          "price": 2614,
+          "unit": null,
+          "count": 211
+        },
+        "2023-Q1": {
+          "price": 2544,
+          "unit": null,
+          "count": 198
+        },
+        "2023-Q2": {
+          "price": 2432,
+          "unit": null,
+          "count": 230
+        },
+        "2023-Q3": {
+          "price": 2683,
+          "unit": null,
+          "count": 215
+        },
+        "2023-Q4": {
+          "price": 2474,
+          "unit": null,
+          "count": 221
+        },
+        "2024-Q1": {
+          "price": 2754,
+          "unit": null,
+          "count": 214
+        },
+        "2024-Q2": {
+          "price": 2488,
+          "unit": null,
+          "count": 256
+        },
+        "2024-Q3": {
+          "price": 2889,
+          "unit": null,
+          "count": 229
+        },
+        "2024-Q4": {
+          "price": 2820,
+          "unit": null,
+          "count": 265
+        },
+        "2025-Q1": {
+          "price": 2826,
+          "unit": null,
+          "count": 230
+        },
+        "2025-Q2": {
+          "price": 2674,
+          "unit": null,
+          "count": 282
+        },
+        "2025-Q3": {
+          "price": 2880,
+          "unit": null,
+          "count": 248
+        },
+        "2025-Q4": {
+          "price": 3078,
+          "unit": null,
+          "count": 248
+        }
+      },
+      "3DK": {
+        "2021-Q1": {
+          "price": 631,
+          "unit": null,
+          "count": 49
+        },
+        "2021-Q2": {
+          "price": 818,
+          "unit": null,
+          "count": 40
+        },
+        "2021-Q3": {
+          "price": 638,
+          "unit": null,
+          "count": 40
+        },
+        "2021-Q4": {
+          "price": 561,
+          "unit": null,
+          "count": 34
+        },
+        "2022-Q1": {
+          "price": 732,
+          "unit": null,
+          "count": 45
+        },
+        "2022-Q2": {
+          "price": 585,
+          "unit": null,
+          "count": 27
+        },
+        "2022-Q3": {
+          "price": 596,
+          "unit": null,
+          "count": 32
+        },
+        "2022-Q4": {
+          "price": 567,
+          "unit": null,
+          "count": 22
+        },
+        "2023-Q1": {
+          "price": 590,
+          "unit": null,
+          "count": 40
+        },
+        "2023-Q2": {
+          "price": 542,
+          "unit": null,
+          "count": 30
+        },
+        "2023-Q3": {
+          "price": 517,
+          "unit": null,
+          "count": 38
+        },
+        "2023-Q4": {
+          "price": 494,
+          "unit": null,
+          "count": 24
+        },
+        "2024-Q1": {
+          "price": 562,
+          "unit": null,
+          "count": 34
+        },
+        "2024-Q2": {
+          "price": 585,
+          "unit": null,
+          "count": 44
+        },
+        "2024-Q3": {
+          "price": 537,
+          "unit": null,
+          "count": 30
+        },
+        "2024-Q4": {
+          "price": 526,
+          "unit": null,
+          "count": 35
+        },
+        "2025-Q1": {
+          "price": 662,
+          "unit": null,
+          "count": 31
+        },
+        "2025-Q2": {
+          "price": 551,
+          "unit": null,
+          "count": 32
+        },
+        "2025-Q3": {
+          "price": 541,
+          "unit": null,
+          "count": 34
+        },
+        "2025-Q4": {
+          "price": 524,
+          "unit": null,
+          "count": 37
+        }
+      },
+      "1LDK": {
+        "2021-Q1": {
+          "price": 1782,
+          "unit": null,
+          "count": 52
+        },
+        "2021-Q2": {
+          "price": 2145,
+          "unit": null,
+          "count": 66
+        },
+        "2021-Q3": {
+          "price": 2085,
+          "unit": null,
+          "count": 45
+        },
+        "2021-Q4": {
+          "price": 2063,
+          "unit": null,
+          "count": 59
+        },
+        "2022-Q1": {
+          "price": 1865,
+          "unit": null,
+          "count": 50
+        },
+        "2022-Q2": {
+          "price": 2199,
+          "unit": null,
+          "count": 54
+        },
+        "2022-Q3": {
+          "price": 2221,
+          "unit": null,
+          "count": 50
+        },
+        "2022-Q4": {
+          "price": 2106,
+          "unit": null,
+          "count": 53
+        },
+        "2023-Q1": {
+          "price": 2118,
+          "unit": null,
+          "count": 59
+        },
+        "2023-Q2": {
+          "price": 2284,
+          "unit": null,
+          "count": 40
+        },
+        "2023-Q3": {
+          "price": 2010,
+          "unit": null,
+          "count": 48
+        },
+        "2023-Q4": {
+          "price": 2329,
+          "unit": null,
+          "count": 58
+        },
+        "2024-Q1": {
+          "price": 2975,
+          "unit": null,
+          "count": 68
+        },
+        "2024-Q2": {
+          "price": 2249,
+          "unit": null,
+          "count": 73
+        },
+        "2024-Q3": {
+          "price": 2330,
+          "unit": null,
+          "count": 66
+        },
+        "2024-Q4": {
+          "price": 2423,
+          "unit": null,
+          "count": 71
+        },
+        "2025-Q1": {
+          "price": 2625,
+          "unit": null,
+          "count": 78
+        },
+        "2025-Q2": {
+          "price": 2342,
+          "unit": null,
+          "count": 71
+        },
+        "2025-Q3": {
+          "price": 2750,
+          "unit": null,
+          "count": 81
+        },
+        "2025-Q4": {
+          "price": 2509,
+          "unit": null,
+          "count": 67
+        }
+      },
+      "2DK": {
+        "2021-Q1": {
+          "price": 941,
+          "unit": null,
+          "count": 15
+        },
+        "2021-Q2": {
+          "price": 1226,
+          "unit": null,
+          "count": 16
+        },
+        "2021-Q3": {
+          "price": 833,
+          "unit": null,
+          "count": 18
+        },
+        "2021-Q4": {
+          "price": 815,
+          "unit": null,
+          "count": 12
+        },
+        "2022-Q1": {
+          "price": 2006,
+          "unit": null,
+          "count": 15
+        },
+        "2022-Q2": {
+          "price": 1541,
+          "unit": null,
+          "count": 21
+        },
+        "2022-Q3": {
+          "price": 913,
+          "unit": null,
+          "count": 19
+        },
+        "2022-Q4": {
+          "price": 836,
+          "unit": null,
+          "count": 18
+        },
+        "2023-Q1": {
+          "price": 1134,
+          "unit": null,
+          "count": 20
+        },
+        "2023-Q2": {
+          "price": 1620,
+          "unit": null,
+          "count": 22
+        },
+        "2023-Q3": {
+          "price": 942,
+          "unit": null,
+          "count": 16
+        },
+        "2023-Q4": {
+          "price": 1104,
+          "unit": null,
+          "count": 16
+        },
+        "2024-Q1": {
+          "price": 2026,
+          "unit": null,
+          "count": 13
+        },
+        "2024-Q2": {
+          "price": 388,
+          "unit": null,
+          "count": 9
+        },
+        "2024-Q3": {
+          "price": 1114,
+          "unit": null,
+          "count": 11
+        },
+        "2024-Q4": {
+          "price": 1034,
+          "unit": null,
+          "count": 16
+        },
+        "2025-Q1": {
+          "price": 994,
+          "unit": null,
+          "count": 16
+        },
+        "2025-Q2": {
+          "price": 1076,
+          "unit": null,
+          "count": 19
+        },
+        "2025-Q3": {
+          "price": 1146,
+          "unit": null,
+          "count": 21
+        },
+        "2025-Q4": {
+          "price": 861,
+          "unit": null,
+          "count": 17
+        }
+      },
+      "1DK": {
+        "2021-Q1": {
+          "price": 2043,
+          "unit": null,
+          "count": 7
+        },
+        "2021-Q2": {
+          "price": 1105,
+          "unit": null,
+          "count": 16
+        },
+        "2021-Q3": {
+          "price": 1400,
+          "unit": null,
+          "count": 10
+        },
+        "2021-Q4": {
+          "price": 1223,
+          "unit": null,
+          "count": 21
+        },
+        "2022-Q1": {
+          "price": 979,
+          "unit": null,
+          "count": 15
+        },
+        "2022-Q2": {
+          "price": 814,
+          "unit": null,
+          "count": 13
+        },
+        "2022-Q3": {
+          "price": 1286,
+          "unit": null,
+          "count": 14
+        },
+        "2022-Q4": {
+          "price": 1137,
+          "unit": null,
+          "count": 10
+        },
+        "2023-Q1": {
+          "price": 994,
+          "unit": null,
+          "count": 11
+        },
+        "2023-Q2": {
+          "price": 1316,
+          "unit": null,
+          "count": 9
+        },
+        "2023-Q3": {
+          "price": 1755,
+          "unit": null,
+          "count": 13
+        },
+        "2023-Q4": {
+          "price": 1239,
+          "unit": null,
+          "count": 16
+        },
+        "2024-Q1": {
+          "price": 908,
+          "unit": null,
+          "count": 15
+        },
+        "2024-Q2": {
+          "price": 1221,
+          "unit": null,
+          "count": 14
+        },
+        "2024-Q3": {
+          "price": 2089,
+          "unit": null,
+          "count": 15
+        },
+        "2024-Q4": {
+          "price": 1414,
+          "unit": null,
+          "count": 17
+        },
+        "2025-Q1": {
+          "price": 1578,
+          "unit": null,
+          "count": 12
+        },
+        "2025-Q2": {
+          "price": 1894,
+          "unit": null,
+          "count": 13
+        },
+        "2025-Q3": {
+          "price": 1519,
+          "unit": null,
+          "count": 21
+        },
+        "2025-Q4": {
+          "price": 1775,
+          "unit": null,
+          "count": 11
+        }
+      }
+    },
+    "福岡県": {
+      "4LDK以上": {
+        "2021-Q1": {
+          "price": 2593,
+          "unit": null,
+          "count": 282
+        },
+        "2021-Q2": {
+          "price": 2543,
+          "unit": null,
+          "count": 320
+        },
+        "2021-Q3": {
+          "price": 2537,
+          "unit": null,
+          "count": 243
+        },
+        "2021-Q4": {
+          "price": 2588,
+          "unit": null,
+          "count": 275
+        },
+        "2022-Q1": {
+          "price": 2556,
+          "unit": null,
+          "count": 287
+        },
+        "2022-Q2": {
+          "price": 2531,
+          "unit": null,
+          "count": 259
+        },
+        "2022-Q3": {
+          "price": 2626,
+          "unit": null,
+          "count": 256
+        },
+        "2022-Q4": {
+          "price": 2793,
+          "unit": null,
+          "count": 231
+        },
+        "2023-Q1": {
+          "price": 2682,
+          "unit": null,
+          "count": 227
+        },
+        "2023-Q2": {
+          "price": 2698,
+          "unit": null,
+          "count": 235
+        },
+        "2023-Q3": {
+          "price": 2831,
+          "unit": null,
+          "count": 230
+        },
+        "2023-Q4": {
+          "price": 2512,
+          "unit": null,
+          "count": 245
+        },
+        "2024-Q1": {
+          "price": 2961,
+          "unit": null,
+          "count": 255
+        },
+        "2024-Q2": {
+          "price": 2871,
+          "unit": null,
+          "count": 256
+        },
+        "2024-Q3": {
+          "price": 3110,
+          "unit": null,
+          "count": 244
+        },
+        "2024-Q4": {
+          "price": 2993,
+          "unit": null,
+          "count": 255
+        },
+        "2025-Q1": {
+          "price": 2818,
+          "unit": null,
+          "count": 248
+        },
+        "2025-Q2": {
+          "price": 2926,
+          "unit": null,
+          "count": 242
+        },
+        "2025-Q3": {
+          "price": 3052,
+          "unit": null,
+          "count": 203
+        },
+        "2025-Q4": {
+          "price": 2825,
+          "unit": null,
+          "count": 200
+        }
+      },
+      "3LDK": {
+        "2021-Q1": {
+          "price": 2295,
+          "unit": null,
+          "count": 518
+        },
+        "2021-Q2": {
+          "price": 2311,
+          "unit": null,
+          "count": 663
+        },
+        "2021-Q3": {
+          "price": 2318,
+          "unit": null,
+          "count": 514
+        },
+        "2021-Q4": {
+          "price": 2451,
+          "unit": null,
+          "count": 526
+        },
+        "2022-Q1": {
+          "price": 2656,
+          "unit": null,
+          "count": 587
+        },
+        "2022-Q2": {
+          "price": 2457,
+          "unit": null,
+          "count": 545
+        },
+        "2022-Q3": {
+          "price": 2447,
+          "unit": null,
+          "count": 488
+        },
+        "2022-Q4": {
+          "price": 2488,
+          "unit": null,
+          "count": 499
+        },
+        "2023-Q1": {
+          "price": 2554,
+          "unit": null,
+          "count": 504
+        },
+        "2023-Q2": {
+          "price": 2472,
+          "unit": null,
+          "count": 494
+        },
+        "2023-Q3": {
+          "price": 2606,
+          "unit": null,
+          "count": 521
+        },
+        "2023-Q4": {
+          "price": 2910,
+          "unit": null,
+          "count": 536
+        },
+        "2024-Q1": {
+          "price": 2968,
+          "unit": null,
+          "count": 607
+        },
+        "2024-Q2": {
+          "price": 2845,
+          "unit": null,
+          "count": 615
+        },
+        "2024-Q3": {
+          "price": 2827,
+          "unit": null,
+          "count": 567
+        },
+        "2024-Q4": {
+          "price": 2731,
+          "unit": null,
+          "count": 591
+        },
+        "2025-Q1": {
+          "price": 2849,
+          "unit": null,
+          "count": 577
+        },
+        "2025-Q2": {
+          "price": 2936,
+          "unit": null,
+          "count": 593
+        },
+        "2025-Q3": {
+          "price": 3200,
+          "unit": null,
+          "count": 464
+        },
+        "2025-Q4": {
+          "price": 3520,
+          "unit": null,
+          "count": 432
+        }
+      },
+      "2LDK": {
+        "2021-Q1": {
+          "price": 2040,
+          "unit": null,
+          "count": 175
+        },
+        "2021-Q2": {
+          "price": 2134,
+          "unit": null,
+          "count": 175
+        },
+        "2021-Q3": {
+          "price": 2231,
+          "unit": null,
+          "count": 156
+        },
+        "2021-Q4": {
+          "price": 2223,
+          "unit": null,
+          "count": 169
+        },
+        "2022-Q1": {
+          "price": 2350,
+          "unit": null,
+          "count": 170
+        },
+        "2022-Q2": {
+          "price": 2475,
+          "unit": null,
+          "count": 199
+        },
+        "2022-Q3": {
+          "price": 2514,
+          "unit": null,
+          "count": 163
+        },
+        "2022-Q4": {
+          "price": 2368,
+          "unit": null,
+          "count": 187
+        },
+        "2023-Q1": {
+          "price": 2610,
+          "unit": null,
+          "count": 161
+        },
+        "2023-Q2": {
+          "price": 2244,
+          "unit": null,
+          "count": 178
+        },
+        "2023-Q3": {
+          "price": 2773,
+          "unit": null,
+          "count": 143
+        },
+        "2023-Q4": {
+          "price": 2646,
+          "unit": null,
+          "count": 202
+        },
+        "2024-Q1": {
+          "price": 2879,
+          "unit": null,
+          "count": 199
+        },
+        "2024-Q2": {
+          "price": 2758,
+          "unit": null,
+          "count": 219
+        },
+        "2024-Q3": {
+          "price": 3009,
+          "unit": null,
+          "count": 166
+        },
+        "2024-Q4": {
+          "price": 2927,
+          "unit": null,
+          "count": 190
+        },
+        "2025-Q1": {
+          "price": 2997,
+          "unit": null,
+          "count": 231
+        },
+        "2025-Q2": {
+          "price": 3008,
+          "unit": null,
+          "count": 193
+        },
+        "2025-Q3": {
+          "price": 2953,
+          "unit": null,
+          "count": 186
+        },
+        "2025-Q4": {
+          "price": 3293,
+          "unit": null,
+          "count": 147
+        }
+      },
+      "1K": {
+        "2021-Q1": {
+          "price": 752,
+          "unit": null,
+          "count": 204
+        },
+        "2021-Q2": {
+          "price": 798,
+          "unit": null,
+          "count": 230
+        },
+        "2021-Q3": {
+          "price": 709,
+          "unit": null,
+          "count": 209
+        },
+        "2021-Q4": {
+          "price": 876,
+          "unit": null,
+          "count": 251
+        },
+        "2022-Q1": {
+          "price": 881,
+          "unit": null,
+          "count": 247
+        },
+        "2022-Q2": {
+          "price": 799,
+          "unit": null,
+          "count": 233
+        },
+        "2022-Q3": {
+          "price": 897,
+          "unit": null,
+          "count": 272
+        },
+        "2022-Q4": {
+          "price": 966,
+          "unit": null,
+          "count": 269
+        },
+        "2023-Q1": {
+          "price": 912,
+          "unit": null,
+          "count": 249
+        },
+        "2023-Q2": {
+          "price": 884,
+          "unit": null,
+          "count": 252
+        },
+        "2023-Q3": {
+          "price": 1028,
+          "unit": null,
+          "count": 249
+        },
+        "2023-Q4": {
+          "price": 944,
+          "unit": null,
+          "count": 270
+        },
+        "2024-Q1": {
+          "price": 979,
+          "unit": null,
+          "count": 255
+        },
+        "2024-Q2": {
+          "price": 962,
+          "unit": null,
+          "count": 236
+        },
+        "2024-Q3": {
+          "price": 1009,
+          "unit": null,
+          "count": 231
+        },
+        "2024-Q4": {
+          "price": 971,
+          "unit": null,
+          "count": 228
+        },
+        "2025-Q1": {
+          "price": 1051,
+          "unit": null,
+          "count": 193
+        },
+        "2025-Q2": {
+          "price": 983,
+          "unit": null,
+          "count": 185
+        },
+        "2025-Q3": {
+          "price": 833,
+          "unit": null,
+          "count": 102
+        },
+        "2025-Q4": {
+          "price": 812,
+          "unit": null,
+          "count": 74
+        }
+      },
+      "1LDK": {
+        "2021-Q1": {
+          "price": 1554,
+          "unit": null,
+          "count": 52
+        },
+        "2021-Q2": {
+          "price": 1600,
+          "unit": null,
+          "count": 82
+        },
+        "2021-Q3": {
+          "price": 1608,
+          "unit": null,
+          "count": 81
+        },
+        "2021-Q4": {
+          "price": 1744,
+          "unit": null,
+          "count": 72
+        },
+        "2022-Q1": {
+          "price": 1852,
+          "unit": null,
+          "count": 102
+        },
+        "2022-Q2": {
+          "price": 1996,
+          "unit": null,
+          "count": 86
+        },
+        "2022-Q3": {
+          "price": 1762,
+          "unit": null,
+          "count": 68
+        },
+        "2022-Q4": {
+          "price": 1846,
+          "unit": null,
+          "count": 92
+        },
+        "2023-Q1": {
+          "price": 1764,
+          "unit": null,
+          "count": 83
+        },
+        "2023-Q2": {
+          "price": 2135,
+          "unit": null,
+          "count": 98
+        },
+        "2023-Q3": {
+          "price": 1881,
+          "unit": null,
+          "count": 100
+        },
+        "2023-Q4": {
+          "price": 2111,
+          "unit": null,
+          "count": 115
+        },
+        "2024-Q1": {
+          "price": 2132,
+          "unit": null,
+          "count": 100
+        },
+        "2024-Q2": {
+          "price": 2081,
+          "unit": null,
+          "count": 105
+        },
+        "2024-Q3": {
+          "price": 1889,
+          "unit": null,
+          "count": 121
+        },
+        "2024-Q4": {
+          "price": 2052,
+          "unit": null,
+          "count": 135
+        },
+        "2025-Q1": {
+          "price": 2063,
+          "unit": null,
+          "count": 128
+        },
+        "2025-Q2": {
+          "price": 2268,
+          "unit": null,
+          "count": 109
+        },
+        "2025-Q3": {
+          "price": 2453,
+          "unit": null,
+          "count": 89
+        },
+        "2025-Q4": {
+          "price": 2579,
+          "unit": null,
+          "count": 82
+        }
+      },
+      "1DK": {
+        "2021-Q1": {
+          "price": 917,
+          "unit": null,
+          "count": 47
+        },
+        "2021-Q2": {
+          "price": 1134,
+          "unit": null,
+          "count": 29
+        },
+        "2021-Q3": {
+          "price": 1004,
+          "unit": null,
+          "count": 33
+        },
+        "2021-Q4": {
+          "price": 994,
+          "unit": null,
+          "count": 45
+        },
+        "2022-Q1": {
+          "price": 1118,
+          "unit": null,
+          "count": 29
+        },
+        "2022-Q2": {
+          "price": 1149,
+          "unit": null,
+          "count": 35
+        },
+        "2022-Q3": {
+          "price": 1205,
+          "unit": null,
+          "count": 33
+        },
+        "2022-Q4": {
+          "price": 1142,
+          "unit": null,
+          "count": 25
+        },
+        "2023-Q1": {
+          "price": 1276,
+          "unit": null,
+          "count": 32
+        },
+        "2023-Q2": {
+          "price": 1207,
+          "unit": null,
+          "count": 38
+        },
+        "2023-Q3": {
+          "price": 1407,
+          "unit": null,
+          "count": 46
+        },
+        "2023-Q4": {
+          "price": 1450,
+          "unit": null,
+          "count": 27
+        },
+        "2024-Q1": {
+          "price": 1407,
+          "unit": null,
+          "count": 26
+        },
+        "2024-Q2": {
+          "price": 958,
+          "unit": null,
+          "count": 36
+        },
+        "2024-Q3": {
+          "price": 1178,
+          "unit": null,
+          "count": 33
+        },
+        "2024-Q4": {
+          "price": 1343,
+          "unit": null,
+          "count": 19
+        },
+        "2025-Q1": {
+          "price": 1485,
+          "unit": null,
+          "count": 24
+        },
+        "2025-Q2": {
+          "price": 1562,
+          "unit": null,
+          "count": 36
+        },
+        "2025-Q3": {
+          "price": 1015,
+          "unit": null,
+          "count": 11
+        },
+        "2025-Q4": {
+          "price": 1329,
+          "unit": null,
+          "count": 14
+        }
+      },
+      "2DK": {
+        "2021-Q1": {
+          "price": 899,
+          "unit": null,
+          "count": 30
+        },
+        "2021-Q2": {
+          "price": 1278,
+          "unit": null,
+          "count": 24
+        },
+        "2021-Q3": {
+          "price": 936,
+          "unit": null,
+          "count": 32
+        },
+        "2021-Q4": {
+          "price": 1284,
+          "unit": null,
+          "count": 33
+        },
+        "2022-Q1": {
+          "price": 1046,
+          "unit": null,
+          "count": 19
+        },
+        "2022-Q2": {
+          "price": 1103,
+          "unit": null,
+          "count": 23
+        },
+        "2022-Q3": {
+          "price": 1027,
+          "unit": null,
+          "count": 25
+        },
+        "2022-Q4": {
+          "price": 1370,
+          "unit": null,
+          "count": 26
+        },
+        "2023-Q1": {
+          "price": 1474,
+          "unit": null,
+          "count": 18
+        },
+        "2023-Q2": {
+          "price": 1298,
+          "unit": null,
+          "count": 23
+        },
+        "2023-Q3": {
+          "price": 1346,
+          "unit": null,
+          "count": 24
+        },
+        "2023-Q4": {
+          "price": 928,
+          "unit": null,
+          "count": 26
+        },
+        "2024-Q1": {
+          "price": 1395,
+          "unit": null,
+          "count": 27
+        },
+        "2024-Q2": {
+          "price": 1302,
+          "unit": null,
+          "count": 20
+        },
+        "2024-Q3": {
+          "price": 953,
+          "unit": null,
+          "count": 25
+        },
+        "2024-Q4": {
+          "price": 1134,
+          "unit": null,
+          "count": 30
+        },
+        "2025-Q1": {
+          "price": 1591,
+          "unit": null,
+          "count": 17
+        },
+        "2025-Q2": {
+          "price": 1528,
+          "unit": null,
+          "count": 26
+        },
+        "2025-Q3": {
+          "price": 1144,
+          "unit": null,
+          "count": 21
+        },
+        "2025-Q4": {
+          "price": 818,
+          "unit": null,
+          "count": 13
+        }
+      },
+      "3DK": {
+        "2021-Q1": {
+          "price": 864,
+          "unit": null,
+          "count": 20
+        },
+        "2021-Q2": {
+          "price": 741,
+          "unit": null,
+          "count": 30
+        },
+        "2021-Q3": {
+          "price": 722,
+          "unit": null,
+          "count": 17
+        },
+        "2021-Q4": {
+          "price": 797,
+          "unit": null,
+          "count": 26
+        },
+        "2022-Q1": {
+          "price": 814,
+          "unit": null,
+          "count": 32
+        },
+        "2022-Q2": {
+          "price": 988,
+          "unit": null,
+          "count": 25
+        },
+        "2022-Q3": {
+          "price": 964,
+          "unit": null,
+          "count": 42
+        },
+        "2022-Q4": {
+          "price": 769,
+          "unit": null,
+          "count": 34
+        },
+        "2023-Q1": {
+          "price": 701,
+          "unit": null,
+          "count": 27
+        },
+        "2023-Q2": {
+          "price": 846,
+          "unit": null,
+          "count": 24
+        },
+        "2023-Q3": {
+          "price": 813,
+          "unit": null,
+          "count": 34
+        },
+        "2023-Q4": {
+          "price": 746,
+          "unit": null,
+          "count": 29
+        },
+        "2024-Q1": {
+          "price": 853,
+          "unit": null,
+          "count": 31
+        },
+        "2024-Q2": {
+          "price": 958,
+          "unit": null,
+          "count": 32
+        },
+        "2024-Q3": {
+          "price": 993,
+          "unit": null,
+          "count": 27
+        },
+        "2024-Q4": {
+          "price": 1145,
+          "unit": null,
+          "count": 36
+        },
+        "2025-Q1": {
+          "price": 988,
+          "unit": null,
+          "count": 26
+        },
+        "2025-Q2": {
+          "price": 1129,
+          "unit": null,
+          "count": 21
+        },
+        "2025-Q3": {
+          "price": 1149,
+          "unit": null,
+          "count": 34
+        },
+        "2025-Q4": {
+          "price": 886,
+          "unit": null,
+          "count": 20
+        }
+      },
+      "2K": {
+        "2021-Q1": {
+          "price": 1550,
+          "unit": null,
+          "count": 5
+        },
+        "2021-Q2": {
+          "price": 1503,
+          "unit": null,
+          "count": 10
+        },
+        "2021-Q3": {
+          "price": 1312,
+          "unit": null,
+          "count": 8
+        },
+        "2021-Q4": {
+          "price": 1403,
+          "unit": null,
+          "count": 6
+        },
+        "2022-Q1": {
+          "price": 1411,
+          "unit": null,
+          "count": 16
+        },
+        "2022-Q2": {
+          "price": 1324,
+          "unit": null,
+          "count": 9
+        },
+        "2022-Q3": {
+          "price": 1229,
+          "unit": null,
+          "count": 8
+        },
+        "2022-Q4": {
+          "price": 1376,
+          "unit": null,
+          "count": 5
+        },
+        "2023-Q1": {
+          "price": 1070,
+          "unit": null,
+          "count": 8
+        },
+        "2023-Q2": {
+          "price": 1317,
+          "unit": null,
+          "count": 11
+        },
+        "2023-Q4": {
+          "price": 1534,
+          "unit": null,
+          "count": 5
+        },
+        "2024-Q1": {
+          "price": 1290,
+          "unit": null,
+          "count": 9
+        },
+        "2024-Q2": {
+          "price": 1326,
+          "unit": null,
+          "count": 10
+        },
+        "2024-Q3": {
+          "price": 1412,
+          "unit": null,
+          "count": 6
+        },
+        "2024-Q4": {
+          "price": 1216,
+          "unit": null,
+          "count": 8
+        },
+        "2025-Q1": {
+          "price": 1520,
+          "unit": null,
+          "count": 5
+        },
+        "2025-Q2": {
+          "price": 1262,
+          "unit": null,
+          "count": 6
+        },
+        "2025-Q3": {
+          "price": 1517,
+          "unit": null,
+          "count": 6
+        },
+        "2025-Q4": {
+          "price": 1441,
+          "unit": null,
+          "count": 8
+        }
+      }
+    }
+  }
+}
